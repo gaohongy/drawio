@@ -1,9 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T02:45:10.673Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.5.5" etag="RulLbXLLNpJTSiAHKmj2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T02:45:41.186Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Zoxoy6VNJkaQpTFQsXaB" version="24.5.5" type="github">
   <diagram name="第 1 页" id="T2Vd-EA-eIBZxFPmkYbD">
-    <mxGraphModel>
+    <mxGraphModel dx="930" dy="625" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ki_-sFj12n2FJK038gnw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ki_-sFj12n2FJK038gnw-2" target="ki_-sFj12n2FJK038gnw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki_-sFj12n2FJK038gnw-2" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="193" y="37" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki_-sFj12n2FJK038gnw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="243" y="170" as="sourcePoint" />
+            <mxPoint x="105" y="216" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="243" y="185" />
+              <mxPoint x="105" y="185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki_-sFj12n2FJK038gnw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ki_-sFj12n2FJK038gnw-6" target="ki_-sFj12n2FJK038gnw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki_-sFj12n2FJK038gnw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="243" y="166" as="sourcePoint" />
+            <mxPoint x="372" y="226" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="243" y="185" />
+              <mxPoint x="372" y="185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki_-sFj12n2FJK038gnw-6" value="SIMD指令集检测" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="193" y="128" width="100" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ki_-sFj12n2FJK038gnw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ki_-sFj12n2FJK038gnw-8" target="ki_-sFj12n2FJK038gnw-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki_-sFj12n2FJK038gnw-8" value="构建主程序编译选项" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="193" y="209" width="100" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ki_-sFj12n2FJK038gnw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ki_-sFj12n2FJK038gnw-10" target="ki_-sFj12n2FJK038gnw-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki_-sFj12n2FJK038gnw-10" value="汇编SIMD指令集计算函数汇编代码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="322" y="209" width="100" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ki_-sFj12n2FJK038gnw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ki_-sFj12n2FJK038gnw-12" target="ki_-sFj12n2FJK038gnw-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki_-sFj12n2FJK038gnw-12" value="构建链接选项" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="209" width="100" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ki_-sFj12n2FJK038gnw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ki_-sFj12n2FJK038gnw-14" target="ki_-sFj12n2FJK038gnw-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki_-sFj12n2FJK038gnw-14" value="编译主程序" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="183" y="290" width="120" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ki_-sFj12n2FJK038gnw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ki_-sFj12n2FJK038gnw-16" target="ki_-sFj12n2FJK038gnw-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki_-sFj12n2FJK038gnw-16" value="链接主程序" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="183" y="372" width="120" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ki_-sFj12n2FJK038gnw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ki_-sFj12n2FJK038gnw-18" target="ki_-sFj12n2FJK038gnw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki_-sFj12n2FJK038gnw-18" value="性能测试" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="183" y="453" width="120" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ki_-sFj12n2FJK038gnw-19" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="193" y="525" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
