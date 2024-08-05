@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第 1 页" id="p9UogfbTqBMRZBkhfiBg">
-    <mxGraphModel dx="5328" dy="1859" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5780" dy="1859" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5187,6 +5187,9 @@
             <mxPoint x="11281.5" y="928.5" as="sourcePoint" />
             <mxPoint x="11282" y="595" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SjxQdRdzrm_aqORJ4dMe-462" value="可以利用开始和结束的 st，ed位置用于存储，一方面破坏了基本假设：spm固定位置固定用途；另一方面存储空间倒起来太繁琐，实现起来有点麻烦&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;整体感觉双 buffer 的意义可能并不大&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF00;strokeColor=#FF8000;gradientColor=none;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="11447.13" y="786" width="368" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
