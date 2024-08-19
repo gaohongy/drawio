@@ -1,9 +1,236 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="c_dqp6Y1Js3CEISHKBOk">
-    <mxGraphModel>
+    <mxGraphModel dx="838" dy="240" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="88" y="131" as="sourcePoint" />
+            <mxPoint x="138" y="81" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="396" as="sourcePoint" />
+            <mxPoint x="72" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-9" y="396" as="sourcePoint" />
+            <mxPoint x="-9" y="382" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="71" y="397" as="sourcePoint" />
+            <mxPoint x="71" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-5" value="" style="endArrow=none;html=1;rounded=0;dashed=1;fontColor=#999999;strokeColor=#999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="72" y="396" as="sourcePoint" />
+            <mxPoint x="154" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="154" y="397" as="sourcePoint" />
+            <mxPoint x="154" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="154" y="396" as="sourcePoint" />
+            <mxPoint x="236" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="236" y="397" as="sourcePoint" />
+            <mxPoint x="236" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-9" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeColor=#999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235" y="396" as="sourcePoint" />
+            <mxPoint x="317" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="317" y="397" as="sourcePoint" />
+            <mxPoint x="317" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="317" y="396" as="sourcePoint" />
+            <mxPoint x="399" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="397" as="sourcePoint" />
+            <mxPoint x="399" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-13" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeColor=#999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="396" as="sourcePoint" />
+            <mxPoint x="481" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="481" y="397" as="sourcePoint" />
+            <mxPoint x="481" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-15" value="2024/09" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-27" y="401" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-18" value="2024/12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="51" y="401" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-19" value="2025/03" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="139" y="401" width="31" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-20" value="2025/06" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="217" y="401" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-21" value="2025/09" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="296" y="401" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-22" value="寒假" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="92" y="362" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-23" value="研二上" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="10" y="362" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-24" value="研二下" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="176" y="362" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-25" value="暑假" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="258" y="362" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-26" value="研三上" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="340" y="362" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-27" value="2025/12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="381" y="401" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-28" value="2026/03" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="461" y="401" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-29" value="寒假" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="420" y="362" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="481" y="396" as="sourcePoint" />
+            <mxPoint x="563" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="563" y="397" as="sourcePoint" />
+            <mxPoint x="563" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-32" value="2026/06" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="541" y="401" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-33" value="研三下" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="502" y="362" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-34" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;strokeWidth=1;endSize=1;startSize=5;fontColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="425" as="sourcePoint" />
+            <mxPoint x="175" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-39" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;fontColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="318" y="382" as="sourcePoint" />
+            <mxPoint x="563" y="381" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="317" y="383" />
+              <mxPoint x="317" y="336" />
+              <mxPoint x="563" y="336" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-40" value="秋季入学博士" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="296" y="328" width="46" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-42" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 6px;&quot;&gt;2025/04&lt;br&gt;春季招生考核（秋季入学博士）&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="133" y="429" width="88" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-43" value="&lt;p style=&quot;margin: 0cm 0cm 0pt; text-indent: 28px; color: rgb(85, 85, 85); font-family: 宋体; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 7px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;中国科学院大学博士生一年招生几次？&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 7px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm 0cm 0pt; text-indent: 28px; font-family: 宋体; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 7px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; font-size: 7px;&quot;&gt;&lt;font color=&quot;#555555&quot;&gt;答：&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm 0cm 0pt; text-indent: 28px; font-family: 宋体; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 7px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; font-size: 7px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;春季招生&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;background-color: initial; font-family: 仿宋_GB2312;&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 仿宋_GB2312;&quot;&gt;秋季入学&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 仿宋_GB2312;&quot;&gt;）&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋_GB2312;&quot;&gt;仅面向国科大在学硕士，&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 仿宋_GB2312;&quot;&gt;报名时间一般是在当年&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 仿宋_GB2312;&quot; lang=&quot;EN-US&quot;&gt;12&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 仿宋_GB2312;&quot;&gt;月至下年&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 仿宋_GB2312;&quot; lang=&quot;EN-US&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 仿宋_GB2312;&quot;&gt;月，&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 仿宋_GB2312; text-indent: 37.3333px;&quot;&gt;考试时间一般是在下年&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 仿宋_GB2312; text-indent: 37.3333px;&quot; lang=&quot;EN-US&quot;&gt;4&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 仿宋_GB2312; text-indent: 37.3333px;&quot;&gt;月上旬。&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm 0cm 0pt; text-indent: 28px; font-family: 宋体; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 7px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; font-size: 7px;&quot;&gt;&lt;span style=&quot;color: rgb(85, 85, 85); white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;font color=&quot;#007fff&quot;&gt;秋季招生（春季入学）面向社会及校内所有考生，&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#007fff&quot;&gt;&lt;font style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-family: 仿宋_GB2312;&quot;&gt;报名时间一般是在当年&lt;span lang=&quot;EN-US&quot;&gt;10&lt;/span&gt;月至&lt;span lang=&quot;EN-US&quot;&gt;11&lt;/span&gt;月，&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-family: 仿宋_GB2312; text-indent: 37.3333px;&quot;&gt;考试时间一般是在当年&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 仿宋_GB2312; text-indent: 37.3333px;&quot; lang=&quot;EN-US&quot;&gt;11&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 仿宋_GB2312; text-indent: 37.3333px;&quot;&gt;月下旬&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋_GB2312;&quot;&gt;。&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="-9" y="473" width="422" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-46" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;strokeWidth=1;endSize=1;startSize=5;fontColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="317" y="339" as="sourcePoint" />
+            <mxPoint x="317.31" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-47" value="秋季入学博士博一" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="412" y="323" width="51" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-48" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;strokeWidth=1;endSize=1;startSize=5;fontColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="71" y="431" as="sourcePoint" />
+            <mxPoint x="71.31" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-49" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 6px;&quot;&gt;2024/12&lt;br&gt;春季招生报名（秋季入学博士）&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="27.5" y="427" width="88" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-50" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;strokeWidth=1;endSize=1;startSize=5;fontColor=#FF0000;strokeColor=#007FFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="341.62" y="425" as="sourcePoint" />
+            <mxPoint x="341.62" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-51" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;2025/10&lt;br&gt;秋季招生报名（春季入学博士）&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="299" y="424" width="86" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-52" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;2025/11&lt;br&gt;秋季招生考核（春季入学博士）&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="340" y="446" width="88" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-53" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;strokeWidth=1;endSize=1;startSize=5;fontColor=#FF0000;strokeColor=#007FFF;exitX=0.462;exitY=0.138;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-1gonDbrTuOEEuY6i_R5-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="381" y="430" as="sourcePoint" />
+            <mxPoint x="381" y="401" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-54" value="春季入学博士" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="458.5" y="306" width="46" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-55" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;strokeWidth=1;endSize=1;startSize=5;fontColor=#007FFF;strokeColor=#007FFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="481" y="318" as="sourcePoint" />
+            <mxPoint x="481.31" y="379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-57" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=#007FFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="481" y="380" as="sourcePoint" />
+            <mxPoint x="562" y="382" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="381" />
+              <mxPoint x="480" y="333" />
+              <mxPoint x="563" y="333" />
+              <mxPoint x="563" y="382" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1gonDbrTuOEEuY6i_R5-58" value="春季入学博士博一" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="497.75" y="319" width="49.5" height="9" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
