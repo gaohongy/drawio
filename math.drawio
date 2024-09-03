@@ -114,47 +114,73 @@
         <mxCell id="xlUvwnvkRTRsD-h7V-_5-7" value="极限和导数的应用" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1281" y="754" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6-rjGv1t7MDO_ssnw42-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R6-rjGv1t7MDO_ssnw42-1" target="R6-rjGv1t7MDO_ssnw42-2">
+        <mxCell id="R6-rjGv1t7MDO_ssnw42-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="R6-rjGv1t7MDO_ssnw42-1" target="R6-rjGv1t7MDO_ssnw42-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6-rjGv1t7MDO_ssnw42-1" value="`\frac{1}{a^2+x^2}`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R6-rjGv1t7MDO_ssnw42-1" value="`\frac{1}{a^2+x^2}`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1141" y="1194" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6-rjGv1t7MDO_ssnw42-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="R6-rjGv1t7MDO_ssnw42-2" target="R6-rjGv1t7MDO_ssnw42-13">
+        <mxCell id="R6-rjGv1t7MDO_ssnw42-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="R6-rjGv1t7MDO_ssnw42-2" target="R6-rjGv1t7MDO_ssnw42-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6-rjGv1t7MDO_ssnw42-2" value="`\frac{1}{\sqrt{x^2 \pm a^2}}`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R6-rjGv1t7MDO_ssnw42-2" value="`\frac{1}{\sqrt{x^2 \pm a^2}}`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1360" y="1194" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6-rjGv1t7MDO_ssnw42-5" value="加根号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="R6-rjGv1t7MDO_ssnw42-5" value="加根号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1281" y="1194" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R6-rjGv1t7MDO_ssnw42-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R6-rjGv1t7MDO_ssnw42-7" target="R6-rjGv1t7MDO_ssnw42-8">
+        <mxCell id="R6-rjGv1t7MDO_ssnw42-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="R6-rjGv1t7MDO_ssnw42-7" target="R6-rjGv1t7MDO_ssnw42-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6-rjGv1t7MDO_ssnw42-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R6-rjGv1t7MDO_ssnw42-7" target="R6-rjGv1t7MDO_ssnw42-10">
+        <mxCell id="R6-rjGv1t7MDO_ssnw42-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="R6-rjGv1t7MDO_ssnw42-7" target="R6-rjGv1t7MDO_ssnw42-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6-rjGv1t7MDO_ssnw42-7" value="`\frac{1}{\sqrt{a^2 -x^2}}`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R6-rjGv1t7MDO_ssnw42-7" value="`\frac{1}{\sqrt{a^2 -x^2}}`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1141" y="1369" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6-rjGv1t7MDO_ssnw42-8" value="`\frac{1}{a^2 - x^2}`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R6-rjGv1t7MDO_ssnw42-8" value="`\frac{1}{a^2 - x^2}`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1360" y="1313" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6-rjGv1t7MDO_ssnw42-9" value="去根号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="R6-rjGv1t7MDO_ssnw42-9" value="去根号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1281" y="1339" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R6-rjGv1t7MDO_ssnw42-10" value="`\sqrt{a^2 - x^2}`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R6-rjGv1t7MDO_ssnw42-10" value="`\sqrt{a^2 - x^2}`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1360" y="1425" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6-rjGv1t7MDO_ssnw42-12" value="去分式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="R6-rjGv1t7MDO_ssnw42-12" value="去分式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1281" y="1429" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R6-rjGv1t7MDO_ssnw42-13" value="`\sqrt{a^2 + x^2}`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R6-rjGv1t7MDO_ssnw42-13" value="`\sqrt{a^2 + x^2}`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1577" y="1194" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6-rjGv1t7MDO_ssnw42-15" value="去分式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="R6-rjGv1t7MDO_ssnw42-15" value="去分式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1501" y="1194" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ff7g93SpQ4RB5F1ldNwT-1" target="Ff7g93SpQ4RB5F1ldNwT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-1" value="1. 连续函数 f(x)&lt;div&gt;2. `x = x_0` 两侧 `f&#39;&#39;(x) `异号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1118.5" y="1633" width="173" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ff7g93SpQ4RB5F1ldNwT-2" target="Ff7g93SpQ4RB5F1ldNwT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-2" value="1.&amp;nbsp; f(x) 在 `x_0` 三阶可导&lt;div&gt;2. `f&#39;&#39;(x_0)=0` 且 `f&#39;&#39;&#39;(x_0) \ne 0`&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1118.5" y="1739" width="173" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ff7g93SpQ4RB5F1ldNwT-3" target="Ff7g93SpQ4RB5F1ldNwT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-8" value="`f&#39;&#39;(x_0)`存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ff7g93SpQ4RB5F1ldNwT-7">
+          <mxGeometry x="-0.15" relative="1" as="geometry">
+            <mxPoint x="6" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-3" value="`(x_0, f(x_0))` 是拐点" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1347" y="1686" width="113" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-4" value="`f&#39;&#39;(x_0) = 0`" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="1686" width="73" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
