@@ -182,6 +182,26 @@
         <mxCell id="Ff7g93SpQ4RB5F1ldNwT-4" value="`f&#39;&#39;(x_0) = 0`" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1580" y="1686" width="73" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ff7g93SpQ4RB5F1ldNwT-11" target="Ff7g93SpQ4RB5F1ldNwT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-11" value="`f&#39;(x_0) = 0` 且 `f&#39;&#39;(x_0) \ne 0`" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1126" y="1986" width="158" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ff7g93SpQ4RB5F1ldNwT-16" target="Ff7g93SpQ4RB5F1ldNwT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-15" value="可导" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ff7g93SpQ4RB5F1ldNwT-14">
+          <mxGeometry x="-0.15" relative="1" as="geometry">
+            <mxPoint x="6" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-16" value="`x = x_0` 取得极值" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1364" y="1986" width="101.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-17" value="`f&#39;(x_0) = 0`" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1587.5" y="1986" width="73" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
