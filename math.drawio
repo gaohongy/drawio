@@ -156,51 +156,76 @@
         <mxCell id="R6-rjGv1t7MDO_ssnw42-15" value="去分式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1501" y="1194" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ff7g93SpQ4RB5F1ldNwT-1" target="Ff7g93SpQ4RB5F1ldNwT-3">
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ff7g93SpQ4RB5F1ldNwT-1" target="Ff7g93SpQ4RB5F1ldNwT-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-1" value="1. 连续函数 f(x)&lt;div&gt;2. `x = x_0` 两侧 `f&#39;&#39;(x) `异号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-1" value="1. 连续函数 f(x)&lt;div&gt;2. `x = x_0` 两侧 `f&#39;&#39;(x) `异号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1118.5" y="1633" width="173" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ff7g93SpQ4RB5F1ldNwT-2" target="Ff7g93SpQ4RB5F1ldNwT-3">
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ff7g93SpQ4RB5F1ldNwT-2" target="Ff7g93SpQ4RB5F1ldNwT-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-2" value="1.&amp;nbsp; f(x) 在 `x_0` 三阶可导&lt;div&gt;2. `f&#39;&#39;(x_0)=0` 且 `f&#39;&#39;&#39;(x_0) \ne 0`&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-2" value="1.&amp;nbsp; f(x) 在 `x_0` 三阶可导&lt;div&gt;2. `f&#39;&#39;(x_0)=0` 且 `f&#39;&#39;&#39;(x_0) \ne 0`&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1118.5" y="1739" width="173" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ff7g93SpQ4RB5F1ldNwT-3" target="Ff7g93SpQ4RB5F1ldNwT-4">
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ff7g93SpQ4RB5F1ldNwT-3" target="Ff7g93SpQ4RB5F1ldNwT-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-8" value="`f&#39;&#39;(x_0)`存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ff7g93SpQ4RB5F1ldNwT-7">
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-8" value="`f&#39;&#39;(x_0)`存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ff7g93SpQ4RB5F1ldNwT-7" vertex="1" connectable="0">
           <mxGeometry x="-0.15" relative="1" as="geometry">
             <mxPoint x="6" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-3" value="`(x_0, f(x_0))` 是拐点" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-3" value="`(x_0, f(x_0))` 是拐点" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1347" y="1686" width="113" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-4" value="`f&#39;&#39;(x_0) = 0`" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-4" value="`f&#39;&#39;(x_0) = 0`" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1580" y="1686" width="73" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ff7g93SpQ4RB5F1ldNwT-11" target="Ff7g93SpQ4RB5F1ldNwT-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-11" value="`f&#39;(x_0) = 0` 且 `f&#39;&#39;(x_0) \ne 0`" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1126" y="1986" width="158" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ff7g93SpQ4RB5F1ldNwT-16" target="Ff7g93SpQ4RB5F1ldNwT-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-15" value="可导" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ff7g93SpQ4RB5F1ldNwT-14">
-          <mxGeometry x="-0.15" relative="1" as="geometry">
-            <mxPoint x="6" y="-14" as="offset" />
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ff7g93SpQ4RB5F1ldNwT-11" target="Ff7g93SpQ4RB5F1ldNwT-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1307.5" y="2017" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-16" value="`x = x_0` 取得极值" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-11" value="`f&#39;(x_0) = 0` 且 `f&#39;&#39;(x_0) \ne 0`" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1077" y="2061.5" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ff7g93SpQ4RB5F1ldNwT-16" target="Ff7g93SpQ4RB5F1ldNwT-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-15" value="可导" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ff7g93SpQ4RB5F1ldNwT-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.15" relative="1" as="geometry">
+            <mxPoint x="1" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fOf-ybcdErMIuB5cWC3u-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ff7g93SpQ4RB5F1ldNwT-16" target="fOf-ybcdErMIuB5cWC3u-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-16" value="`x = x_0` 取得极值" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1364" y="1986" width="101.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-17" value="`f&#39;(x_0) = 0`" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1587.5" y="1986" width="73" height="60" as="geometry" />
+        <mxCell id="Ff7g93SpQ4RB5F1ldNwT-17" value="`f&#39;(x_0) = 0`" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1584" y="1920" width="79" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fOf-ybcdErMIuB5cWC3u-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fOf-ybcdErMIuB5cWC3u-1" target="Ff7g93SpQ4RB5F1ldNwT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOf-ybcdErMIuB5cWC3u-1" value="1. `f&#39;(x_0) = 0`&lt;div&gt;2. `x_0` 两侧 `f&#39;(x)` 变号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1077" y="1910.5" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fOf-ybcdErMIuB5cWC3u-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fOf-ybcdErMIuB5cWC3u-2" target="Ff7g93SpQ4RB5F1ldNwT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOf-ybcdErMIuB5cWC3u-2" value="1. `f&#39;(x_0)` 不存在但 `f(x)` 在 `x_0` 连续&lt;div&gt;2. `x_0` 两侧 `f&#39;(x)` 变号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1077" y="1986.5" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fOf-ybcdErMIuB5cWC3u-5" value="`f&#39;(x_0)` 不存在" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1584" y="2046.5" width="79" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fOf-ybcdErMIuB5cWC3u-7" value="不可导" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1531.0008379085775" y="1979.9982674939567" as="geometry">
+            <mxPoint x="-19" y="79" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
