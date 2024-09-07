@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="第 1 页" id="CHzktJIyDTGoVnoxUjND">
-    <mxGraphModel dx="928" dy="1025" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="687" dy="863" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,7 +96,7 @@
         <mxCell id="xlUvwnvkRTRsD-h7V-_5-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xlUvwnvkRTRsD-h7V-_5-3" target="xlUvwnvkRTRsD-h7V-_5-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sce7YkdKLPvN8lhfS_ev-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xlUvwnvkRTRsD-h7V-_5-3" target="sce7YkdKLPvN8lhfS_ev-1">
+        <mxCell id="sce7YkdKLPvN8lhfS_ev-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xlUvwnvkRTRsD-h7V-_5-3" target="sce7YkdKLPvN8lhfS_ev-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xlUvwnvkRTRsD-h7V-_5-3" value="极限" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -105,14 +105,14 @@
         <mxCell id="xlUvwnvkRTRsD-h7V-_5-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xlUvwnvkRTRsD-h7V-_5-5" target="xlUvwnvkRTRsD-h7V-_5-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xlUvwnvkRTRsD-h7V-_5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xlUvwnvkRTRsD-h7V-_5-5" target="xlUvwnvkRTRsD-h7V-_5-6" edge="1">
+        <mxCell id="xlUvwnvkRTRsD-h7V-_5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xlUvwnvkRTRsD-h7V-_5-5" target="xlUvwnvkRTRsD-h7V-_5-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xlUvwnvkRTRsD-h7V-_5-5" value="导数" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1079" y="809" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xlUvwnvkRTRsD-h7V-_5-6" value="微分学" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1079" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="906" y="809" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xlUvwnvkRTRsD-h7V-_5-7" value="极限和导数的应用" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1281" y="754" width="120" height="60" as="geometry" />
@@ -257,7 +257,7 @@
         <mxCell id="fOf-ybcdErMIuB5cWC3u-16" value="ds" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1219" y="2290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sce7YkdKLPvN8lhfS_ev-1" value="定积分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="sce7YkdKLPvN8lhfS_ev-1" value="定积分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="906" y="699" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
