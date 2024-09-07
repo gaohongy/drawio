@@ -430,6 +430,27 @@
         <mxCell id="X_sBb1rWjTkQ-e0TcF47-54" value="不可积" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2109" y="2479" width="98" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X_sBb1rWjTkQ-e0TcF47-56" target="X_sBb1rWjTkQ-e0TcF47-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-56" value="闭区间连续" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1849" y="2676" width="98" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-57" value="原函数存在" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2018" y="2676" width="98" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X_sBb1rWjTkQ-e0TcF47-59" target="X_sBb1rWjTkQ-e0TcF47-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-59" value="存在第一类间断点 or 无穷间断点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1849" y="2764" width="98" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-60" value="原函数不存在" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2018" y="2764" width="98" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-62" value="因为导数不含这些间断点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1868" y="2804" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
