@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="第 1 页" id="CHzktJIyDTGoVnoxUjND">
-    <mxGraphModel dx="371" dy="650" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="742" dy="900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -354,6 +354,81 @@
         </mxCell>
         <mxCell id="X_sBb1rWjTkQ-e0TcF47-32" value="牛顿莱布尼兹公式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1003.0040740740742" y="784.0000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X_sBb1rWjTkQ-e0TcF47-33" target="X_sBb1rWjTkQ-e0TcF47-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X_sBb1rWjTkQ-e0TcF47-33" target="X_sBb1rWjTkQ-e0TcF47-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2006.8000000000002" y="2242.4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-33" value="连续" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1958" y="2275" width="98" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1917" y="2347" as="sourcePoint" />
+            <mxPoint x="1960" y="2293" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1936" y="2347.5" />
+              <mxPoint x="1936" y="2293.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X_sBb1rWjTkQ-e0TcF47-34" target="X_sBb1rWjTkQ-e0TcF47-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1923.5" y="2347.5" as="sourcePoint" />
+            <mxPoint x="1959" y="2400.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1936" y="2348" />
+              <mxPoint x="1936" y="2401" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-34" value="`f(x)`闭区间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1835" y="2331.5" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X_sBb1rWjTkQ-e0TcF47-35" target="X_sBb1rWjTkQ-e0TcF47-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-35" value="单调有界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1958" y="2329" width="98" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X_sBb1rWjTkQ-e0TcF47-36" target="X_sBb1rWjTkQ-e0TcF47-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2084.105263157895" y="2364.0526315789475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-36" value="有界且间断点有限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1958" y="2382" width="98" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X_sBb1rWjTkQ-e0TcF47-41" target="X_sBb1rWjTkQ-e0TcF47-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-41" value="可积" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2109" y="2329" width="98" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-45" value="`\varphi (x) = \int_{a}^{x} f(t) dt`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2237" y="2376" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-46" value="`\varphi(x)` 连续" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="2329" width="98" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-51" value="`\varphi(x)` 可导&amp;nbsp;&lt;div&gt;且 `\varphi &#39; (x) = f(x)`，&lt;/div&gt;&lt;div&gt;即 `\varphi(x)` 为 `f(x)` 原函数&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1941.5" y="2187" width="131" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X_sBb1rWjTkQ-e0TcF47-53" target="X_sBb1rWjTkQ-e0TcF47-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-53" value="`f(x)`无界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1852" y="2479" width="98" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-54" value="不可积" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2109" y="2479" width="98" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
