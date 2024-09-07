@@ -260,6 +260,81 @@
         <mxCell id="sce7YkdKLPvN8lhfS_ev-1" value="定积分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="906" y="699" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-2" value="`f(x)`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2109" y="1901" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-3" value="`f&#39;(x)`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2216" y="1901" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-4" value="`F(x)`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2001" y="1901" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="X_sBb1rWjTkQ-e0TcF47-5" target="X_sBb1rWjTkQ-e0TcF47-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="X_sBb1rWjTkQ-e0TcF47-5" target="X_sBb1rWjTkQ-e0TcF47-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-5" value="`f(x)`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2109" y="1982" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-6" value="`f&#39;(x)`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2216" y="1982" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-7" value="`F(x)`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2001" y="1982" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-8" value="奇函数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2109" y="1880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-9" value="偶函数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2216" y="1880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-10" value="偶函数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2001" y="1880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-11" value="偶函数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2109.5" y="2012" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-12" value="奇函数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2216.5" y="2012" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-13" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;`\int_{0}^{a} f(x)dx = 0`&lt;/span&gt;&amp;nbsp;时&lt;/font&gt;奇函数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1975" y="2012" width="102.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-16" value="` F(x) = \int_{a}^{x} f(x) dx`" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="2056" y="1965" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-19" value="周期为 T" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2109" y="1857" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-20" value="周期为 T" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2216" y="1857" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-21" value="&lt;font color=&quot;#ff0000&quot;&gt;`\int_{0}^{T} f(x) dx = 0` 时&lt;/font&gt;周期为 T" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1977.5" y="1859" width="107" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-22" value="周期为 T" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2112" y="2046" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-23" value="周期为 T" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2216.5" y="2046" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-24" value="&lt;font color=&quot;#ff0000&quot;&gt;`\int_{0}^{T} f(x) dx = 0` 时&lt;/font&gt;周期为 T" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1975" y="2046" width="107" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#007FFF;strokeColor=#6c8ebf;fillColor=#dae8fc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1964" y="1904" as="sourcePoint" />
+            <mxPoint x="2273" y="1904" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X_sBb1rWjTkQ-e0TcF47-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1967" y="2011.26" as="sourcePoint" />
+            <mxPoint x="2276" y="2011.26" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
