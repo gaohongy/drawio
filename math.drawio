@@ -561,14 +561,14 @@
         <mxCell id="C-SXM6vyyl7CtFUThc4a-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C-SXM6vyyl7CtFUThc4a-9" target="C-SXM6vyyl7CtFUThc4a-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C-SXM6vyyl7CtFUThc4a-9" value="1. `f&#39;(x_0) = 0`&lt;div&gt;2. `x_0` 两侧 `f&#39;(x)` 变号 /&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;`f&#39;&#39;(x_0) \ne 0`&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="302" y="1910.5" width="200" height="60" as="geometry" />
+        <mxCell id="C-SXM6vyyl7CtFUThc4a-9" value="1. `x_0` 两侧 `f&#39;(x)` 变号&lt;div&gt;2. `f&#39;(x_0) = 0` 或&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;`f&#39;(x_0)` 不存在但 `f(x)` 在 `x_0` 连续&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="263" y="1910.5" width="283" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C-SXM6vyyl7CtFUThc4a-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C-SXM6vyyl7CtFUThc4a-11" target="C-SXM6vyyl7CtFUThc4a-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C-SXM6vyyl7CtFUThc4a-11" value="1. `f&#39;(x_0)` 不存在但 `f(x)` 在 `x_0` 连续&lt;div&gt;2. `x_0` 两侧 `f&#39;(x)` 变号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="302" y="2037" width="200" height="60" as="geometry" />
+        <mxCell id="C-SXM6vyyl7CtFUThc4a-11" value="`f&#39;(x_0) = 0`&amp;nbsp; 且&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;`f&#39;&#39;(x_0) \ne 0`&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="263" y="2033" width="283" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C-SXM6vyyl7CtFUThc4a-12" value="`f&#39;(x_0)` 不存在" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="812" y="2037" width="79" height="60" as="geometry" />
