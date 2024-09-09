@@ -568,7 +568,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C-SXM6vyyl7CtFUThc4a-11" value="`f&#39;(x_0) = 0`&amp;nbsp; 且&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;`f&#39;&#39;(x_0) \ne 0`&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="263" y="2033" width="283" height="60" as="geometry" />
+          <mxGeometry x="263" y="2037" width="283" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C-SXM6vyyl7CtFUThc4a-12" value="`f&#39;(x_0)` 不存在" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="812" y="2037" width="79" height="60" as="geometry" />
