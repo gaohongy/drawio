@@ -65,40 +65,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gmvneLOKdEyDjxOqlReS-20" value="1. &lt;strong&gt;设置 PLX SDK 目录&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="822" y="141" width="135" height="60" as="geometry" />
+          <mxGeometry x="822" y="141" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gmvneLOKdEyDjxOqlReS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmvneLOKdEyDjxOqlReS-22" target="gmvneLOKdEyDjxOqlReS-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gmvneLOKdEyDjxOqlReS-22" value="2. &lt;strong&gt;检查 &lt;code&gt;insmod&lt;/code&gt; 命令&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="822" y="222" width="135" height="60" as="geometry" />
+          <mxGeometry x="822" y="222" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gmvneLOKdEyDjxOqlReS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmvneLOKdEyDjxOqlReS-23" target="gmvneLOKdEyDjxOqlReS-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gmvneLOKdEyDjxOqlReS-23" value="3. 处理命令行参数，设置驱动类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="822" y="303" width="135" height="60" as="geometry" />
+          <mxGeometry x="822" y="303" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gmvneLOKdEyDjxOqlReS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmvneLOKdEyDjxOqlReS-24" target="gmvneLOKdEyDjxOqlReS-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gmvneLOKdEyDjxOqlReS-24" value="4. &lt;strong&gt;检查超级用户权限&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="822" y="385" width="135" height="60" as="geometry" />
+          <mxGeometry x="822" y="385" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gmvneLOKdEyDjxOqlReS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmvneLOKdEyDjxOqlReS-25" target="gmvneLOKdEyDjxOqlReS-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gmvneLOKdEyDjxOqlReS-25" value="5. 设置驱动路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="822" y="466" width="135" height="60" as="geometry" />
+          <mxGeometry x="822" y="466" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gmvneLOKdEyDjxOqlReS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gmvneLOKdEyDjxOqlReS-26" target="gmvneLOKdEyDjxOqlReS-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gmvneLOKdEyDjxOqlReS-26" value="6. 检查并加载模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="822" y="547" width="135" height="60" as="geometry" />
+        <mxCell id="gmvneLOKdEyDjxOqlReS-26" value="6. 检查并加载模块(driver)&lt;div&gt;insmod&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="822" y="547" width="138" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gmvneLOKdEyDjxOqlReS-27" value="7. 创建设备节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="822" y="628" width="135" height="60" as="geometry" />
+        <mxCell id="gmvneLOKdEyDjxOqlReS-27" value="7. 创建设备节点&lt;div&gt;mknod&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="822" y="628" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gmvneLOKdEyDjxOqlReS-28" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmvneLOKdEyDjxOqlReS-17" target="gmvneLOKdEyDjxOqlReS-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
