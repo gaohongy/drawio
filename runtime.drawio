@@ -112,6 +112,21 @@
             <mxPoint x="797" y="394" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gmvneLOKdEyDjxOqlReS-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmvneLOKdEyDjxOqlReS-36" target="gmvneLOKdEyDjxOqlReS-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmvneLOKdEyDjxOqlReS-36" value="/test&lt;div&gt;run_test.sh&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="831" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmvneLOKdEyDjxOqlReS-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmvneLOKdEyDjxOqlReS-37" target="gmvneLOKdEyDjxOqlReS-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmvneLOKdEyDjxOqlReS-37" value="&lt;div&gt;/test&lt;/div&gt;&lt;div&gt;build_dfu.sh&lt;/div&gt;编译 test.c" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="928" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmvneLOKdEyDjxOqlReS-38" value="&lt;div&gt;/test&lt;/div&gt;&lt;div&gt;test&lt;/div&gt;&lt;div&gt;执行测试程序&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="1025" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
