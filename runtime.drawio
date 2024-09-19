@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="第 1 页" id="c3EcTnjNv6WKQcdi2uHx">
     <mxGraphModel dx="928" dy="625" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,20 +127,41 @@
         <mxCell id="gmvneLOKdEyDjxOqlReS-38" value="&lt;div&gt;/test&lt;/div&gt;&lt;div&gt;test&lt;/div&gt;&lt;div&gt;执行测试程序&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="382" y="1025" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wQ5YENqyo2OHdm7IbHWo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wQ5YENqyo2OHdm7IbHWo-1" target="wQ5YENqyo2OHdm7IbHWo-2">
+        <mxCell id="wQ5YENqyo2OHdm7IbHWo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wQ5YENqyo2OHdm7IbHWo-1" target="wQ5YENqyo2OHdm7IbHWo-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wQ5YENqyo2OHdm7IbHWo-1" value="dfu_hgc.c&lt;div&gt;Dfu_Message_Send&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wQ5YENqyo2OHdm7IbHWo-1" value="dfu_hgc.c&lt;div&gt;Dfu_Message_Send&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="146" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wQ5YENqyo2OHdm7IbHWo-2" value="pe_case.c&lt;div&gt;ams_write_command&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wQ5YENqyo2OHdm7IbHWo-2" value="pe_case.c&lt;div&gt;ams_write_command&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="337" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wQ5YENqyo2OHdm7IbHWo-4" value="runtime" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wQ5YENqyo2OHdm7IbHWo-4" value="runtime" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="176" y="1228" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wQ5YENqyo2OHdm7IbHWo-5" value="plx sdk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wQ5YENqyo2OHdm7IbHWo-5" value="plx sdk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="1228" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMQgl-a71iDPXyP-7jaS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qMQgl-a71iDPXyP-7jaS-1" target="qMQgl-a71iDPXyP-7jaS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMQgl-a71iDPXyP-7jaS-1" value="pe_case.c&lt;div&gt;ams_open_boardcard&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152" y="1431" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMQgl-a71iDPXyP-7jaS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qMQgl-a71iDPXyP-7jaS-2" target="qMQgl-a71iDPXyP-7jaS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMQgl-a71iDPXyP-7jaS-2" value="PlxApi.c&lt;div&gt;PlxPci_DeviceOpen&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337" y="1431" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMQgl-a71iDPXyP-7jaS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qMQgl-a71iDPXyP-7jaS-4" target="qMQgl-a71iDPXyP-7jaS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMQgl-a71iDPXyP-7jaS-4" value="PlxApi.c&lt;div&gt;Driver_Connect&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="522" y="1431" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMQgl-a71iDPXyP-7jaS-6" value="&lt;div&gt;Linux kernel&lt;/div&gt;&lt;div&gt;ioctl&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="1431" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
