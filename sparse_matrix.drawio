@@ -1714,23 +1714,44 @@
         <mxCell id="ht5rBl-SjjFZBpGq4qYo-383" value="C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="954" y="2776" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pSdvG8endxZIBJAOiVjn-1" value="0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pSdvG8endxZIBJAOiVjn-1" value="0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="538" y="2957" width="19" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="pSdvG8endxZIBJAOiVjn-2" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pSdvG8endxZIBJAOiVjn-2" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="701" y="2949" width="19" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="pSdvG8endxZIBJAOiVjn-3" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pSdvG8endxZIBJAOiVjn-3" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="646" y="3125" width="19" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="pSdvG8endxZIBJAOiVjn-4" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pSdvG8endxZIBJAOiVjn-4" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="568" y="2987" width="19" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="pSdvG8endxZIBJAOiVjn-5" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pSdvG8endxZIBJAOiVjn-5" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="748" y="3035" width="19" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="pSdvG8endxZIBJAOiVjn-6" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pSdvG8endxZIBJAOiVjn-6" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="781" y="3132" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="TOFsWstLVqafcfQwttse-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TOFsWstLVqafcfQwttse-1" target="TOFsWstLVqafcfQwttse-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOFsWstLVqafcfQwttse-1" value="gspmspv.cu&lt;div&gt;graphblas::vxm&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1432" y="2359" width="221" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOFsWstLVqafcfQwttse-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TOFsWstLVqafcfQwttse-3" target="TOFsWstLVqafcfQwttse-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOFsWstLVqafcfQwttse-3" value="operations.hpp&lt;div&gt;vxm&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1432" y="2466" width="221" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOFsWstLVqafcfQwttse-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TOFsWstLVqafcfQwttse-4" target="TOFsWstLVqafcfQwttse-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOFsWstLVqafcfQwttse-4" value="spmspv.hpp&lt;div&gt;spmspvMerge（Merge-path 负载均衡）&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1432" y="2573" width="221" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOFsWstLVqafcfQwttse-5" value="spmspv_inner.hpp&lt;div&gt;spmspvApspieMerge&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1432" y="2679.5" width="221" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
