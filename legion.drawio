@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="X0bGSsXVkm_eNpD6BviU">
-    <mxGraphModel>
+    <mxGraphModel dx="928" dy="625" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="joN8DTu-hvtdGFrbetuW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="joN8DTu-hvtdGFrbetuW-1" target="joN8DTu-hvtdGFrbetuW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="joN8DTu-hvtdGFrbetuW-1" value="&lt;div&gt;/&lt;/div&gt;legion_server.py&lt;div&gt;命令参数解析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="joN8DTu-hvtdGFrbetuW-2" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;sampling_server&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;main.cu&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="179" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="joN8DTu-hvtdGFrbetuW-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="779" y="135" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="joN8DTu-hvtdGFrbetuW-6" value="main.cu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="807" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="joN8DTu-hvtdGFrbetuW-7" value="cache/*.cu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="807" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="joN8DTu-hvtdGFrbetuW-8" value="storage/*.cu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="807" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="joN8DTu-hvtdGFrbetuW-9" value="engine/*.cu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="807" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="joN8DTu-hvtdGFrbetuW-10" value="*.h&lt;div&gt;*.cuh&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="888" y="177" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="joN8DTu-hvtdGFrbetuW-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="768" y="194.5" as="sourcePoint" />
+            <mxPoint x="738" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joN8DTu-hvtdGFrbetuW-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="joN8DTu-hvtdGFrbetuW-14" target="joN8DTu-hvtdGFrbetuW-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="joN8DTu-hvtdGFrbetuW-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="joN8DTu-hvtdGFrbetuW-14" target="joN8DTu-hvtdGFrbetuW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="joN8DTu-hvtdGFrbetuW-14" value="*.o" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="708" y="179" width="34" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="joN8DTu-hvtdGFrbetuW-17" value="bin(sampling_server)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="552" y="151" width="122" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="joN8DTu-hvtdGFrbetuW-18" value="lib(libserver.so)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="584" y="204" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
