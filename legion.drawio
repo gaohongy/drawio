@@ -8,10 +8,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="joN8DTu-hvtdGFrbetuW-1" value="&lt;div&gt;/&lt;/div&gt;legion_server.py&lt;div&gt;命令参数解析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="313" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="391" y="69" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="joN8DTu-hvtdGFrbetuW-2" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;sampling_server&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;main.cu&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="313" y="179" width="120" height="60" as="geometry" />
+          <mxGeometry x="391" y="198" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="joN8DTu-hvtdGFrbetuW-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="779" y="135" width="20" height="120" as="geometry" />
@@ -51,6 +51,15 @@
         </mxCell>
         <mxCell id="joN8DTu-hvtdGFrbetuW-18" value="lib(libserver.so)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="584" y="204" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="joN8DTu-hvtdGFrbetuW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="joN8DTu-hvtdGFrbetuW-21" target="joN8DTu-hvtdGFrbetuW-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="joN8DTu-hvtdGFrbetuW-21" value="gpu server&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Initialize&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127" y="69" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="joN8DTu-hvtdGFrbetuW-22" value="存储管理初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127" y="189" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
