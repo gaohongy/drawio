@@ -1,9 +1,68 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="第 1 页" id="fgaVSeHE9Litf6Hn5mGs">
-    <mxGraphModel>
+    <mxGraphModel dx="1058" dy="581" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PNklFPPIlNWVBMlZkYEe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PNklFPPIlNWVBMlZkYEe-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="131" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PNklFPPIlNWVBMlZkYEe-1" value="数据插入开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="59" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PNklFPPIlNWVBMlZkYEe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNklFPPIlNWVBMlZkYEe-4" target="PNklFPPIlNWVBMlZkYEe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNklFPPIlNWVBMlZkYEe-4" value="&lt;div&gt;binary search 确定 leaf segment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="134" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PNklFPPIlNWVBMlZkYEe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNklFPPIlNWVBMlZkYEe-5" target="PNklFPPIlNWVBMlZkYEe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNklFPPIlNWVBMlZkYEe-5" value="&lt;div&gt;将数据插入该 segment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="214" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PNklFPPIlNWVBMlZkYEe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNklFPPIlNWVBMlZkYEe-6" target="PNklFPPIlNWVBMlZkYEe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNklFPPIlNWVBMlZkYEe-10" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PNklFPPIlNWVBMlZkYEe-9">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PNklFPPIlNWVBMlZkYEe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNklFPPIlNWVBMlZkYEe-6" target="PNklFPPIlNWVBMlZkYEe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNklFPPIlNWVBMlZkYEe-16" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PNklFPPIlNWVBMlZkYEe-15">
+          <mxGeometry x="-0.2537" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PNklFPPIlNWVBMlZkYEe-6" value="density exceed&amp;nbsp;threshold" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="289" width="126" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="PNklFPPIlNWVBMlZkYEe-7" value="数据插入结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="502" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PNklFPPIlNWVBMlZkYEe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNklFPPIlNWVBMlZkYEe-13" target="PNklFPPIlNWVBMlZkYEe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNklFPPIlNWVBMlZkYEe-13" value="确定能装填此数据最近祖先节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="506" y="348" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PNklFPPIlNWVBMlZkYEe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNklFPPIlNWVBMlZkYEe-14" target="PNklFPPIlNWVBMlZkYEe-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="481" />
+              <mxPoint x="395" y="481" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PNklFPPIlNWVBMlZkYEe-14" value="re-dispatching all entries" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="506" y="416" width="120" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
