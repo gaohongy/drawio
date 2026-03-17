@@ -4,6 +4,36 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vC0HfOfeLFX_4j-K9Z1p-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="248" width="485" x="103" y="124" as="geometry" />
+        </mxCell>
+        <mxCell id="vC0HfOfeLFX_4j-K9Z1p-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="188" width="207" x="122" y="167" as="geometry" />
+        </mxCell>
+        <mxCell id="vC0HfOfeLFX_4j-K9Z1p-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="188" width="207" x="357" y="167" as="geometry" />
+        </mxCell>
+        <mxCell id="vC0HfOfeLFX_4j-K9Z1p-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="159" x="381" y="202" as="geometry" />
+        </mxCell>
+        <mxCell id="vC0HfOfeLFX_4j-K9Z1p-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="159" x="381" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="vC0HfOfeLFX_4j-K9Z1p-6" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="Tensor" vertex="1">
+          <mxGeometry height="25" width="64" x="313.5" y="129" as="geometry" />
+        </mxCell>
+        <mxCell id="vC0HfOfeLFX_4j-K9Z1p-7" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="Pointer" vertex="1">
+          <mxGeometry height="25" width="64" x="193.5" y="248.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vC0HfOfeLFX_4j-K9Z1p-8" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="Layout" vertex="1">
+          <mxGeometry height="25" width="64" x="428.5" y="172" as="geometry" />
+        </mxCell>
+        <mxCell id="vC0HfOfeLFX_4j-K9Z1p-9" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="Shape" vertex="1">
+          <mxGeometry height="25" width="64" x="428.5" y="207" as="geometry" />
+        </mxCell>
+        <mxCell id="vC0HfOfeLFX_4j-K9Z1p-10" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="Stride" vertex="1">
+          <mxGeometry height="25" width="64" x="428.5" y="282" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
