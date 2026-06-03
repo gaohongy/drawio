@@ -364,6 +364,9 @@
         <mxCell id="lyZQ0UNYUAO7ue0q4lVT-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="转置写回" vertex="1">
           <mxGeometry height="30" width="70" x="909" y="1232" as="geometry" />
         </mxCell>
+        <mxCell id="lyZQ0UNYUAO7ue0q4lVT-105" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="`V^TP`" vertex="1">
+          <mxGeometry height="30" width="99" x="1019" y="1163.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
