@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Framework-Overview" id="framework_overview">
-    <mxGraphModel dx="10161" dy="96" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="10735" dy="438" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1951,8 +1951,8 @@
         <mxCell id="0Ibundf_GBBm8TtXv5An-623" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=10;" value="" vertex="1">
           <mxGeometry height="122" width="161.13" x="-2933.43" y="2096" as="geometry" />
         </mxCell>
-        <mxCell id="0Ibundf_GBBm8TtXv5An-624" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=10;" value="GPU 0" vertex="1">
-          <mxGeometry height="109" width="161.13" x="-2701.87" y="2310" as="geometry" />
+        <mxCell id="0Ibundf_GBBm8TtXv5An-624" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=10;" value="GPU 4" vertex="1">
+          <mxGeometry height="52" width="76.87" x="-2701.87" y="2310" as="geometry" />
         </mxCell>
         <mxCell id="0Ibundf_GBBm8TtXv5An-625" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=10;" value="GPU 0" vertex="1">
           <mxGeometry height="109" width="161.13" x="-2929.87" y="2518" as="geometry" />
